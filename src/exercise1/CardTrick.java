@@ -52,7 +52,7 @@ public class CardTrick {
 
     private static void printInfo() {
     
-     //"I am Done!"
+     //"I'm Done!"
         System.out.println("Congratulations, you guessed right Card!");
         System.out.println();
         
